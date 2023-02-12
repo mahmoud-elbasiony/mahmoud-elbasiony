@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Python | Java | C++  
 - 🌐 &nbsp; frontend | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; figma
 
