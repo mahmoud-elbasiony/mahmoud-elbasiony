@@ -5,7 +5,6 @@
 
 - 🔭 &nbsp; I’m currently web Development trainee at iti
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; back and front-end web developer.
 - ✍️ &nbsp; Watching Anime and playing football.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
