@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
+- 💻 &nbsp; Python | Java | C++ | C 
 - 🌐 &nbsp; frontend | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Xampp
+- 🛢 &nbsp; MySQL | mongodb| Xampp 
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; figma
 
